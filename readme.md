@@ -1,4 +1,4 @@
-
+```
    **                      **         
   /**                     /**         
  ******  *****            /**  ****** 
@@ -7,7 +7,7 @@
   /**  /**////       /**  /**/**   /**
   //** //******      //******//****** 
    //   //////        //////  //////  
-
+```
 Welcome to Te-Do, a simple to-do list app for iOS, named after Tedo Zibzibadze, a Georgian rugby union player.
 
 When it exists, the main features of it will be:
@@ -20,10 +20,13 @@ The app is made to be very simple, free from any 'bloat' (extra features that yo
 However, if the app becomes widely used, 'plugins' might be implemented, so you can expand the app how you want. Until then, you can fork the code using Github. This is another perk of the app being foss. 
 
 ### Intuitive:
-The app works how you want. And if it doesnt, you can spend a few minutes in teh settings menu, where almost everything can be changed. By default, completed tasks are crossed out and moved to the bottom of the list, but can still be easily viewed.
+The app works how you want. And if it doesn't, you can spend a few minutes in the settings menu, where almost everything can be changed. By default, completed tasks are crossed out and moved to the bottom of the list, but can still be easily viewed. 
 
 ### Reminders:
-The app features simple notification reminders for when your task is due, 
+The app features simple notification reminders for when your task is due. 
+
+### Themes:
+There's a light and dark mode built in, but the app has support for custom themeing, so you can fully customise the appearance, as well as using community-made themes.
 
 
 
