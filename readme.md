@@ -25,10 +25,12 @@ The app works how you want. And if it doesn't, you can spend a few minutes in th
 ### Reminders:
 The app features simple notification reminders for when your task is due. 
 
-### Themes:
-There's a light and dark mode built in, but the app has support for custom themeing, so you can fully customise the appearance, as well as using community-made themes.
+#### tbc:
+There are some features whih would be nice to add but would be hard to implement. These include:
 
-
+*Sync:* An account system so you can access your notes from any device.
+*Other Platforms:* A destop app, or maybe even a web app, to help you be organised whatever you are doing.
+*Themeing:* The app will probably come with a light and dark theme. But it would be good to make the appearance fully customisable by the user, to enable community themes.
 
 
 
