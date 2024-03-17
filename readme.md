@@ -8,9 +8,9 @@
   //** //******      //******//****** 
    //   //////        //////  //////  
 ```
-Welcome to Te-Do, a simple to-do list app for iOS, named after Tedo Zibzibadze, a Georgian rugby union player.
+Welcome to Te-Do, a simple to-do list app for iOS, named after <a href="https://en.wikipedia.org/wiki/Tedo_Zibzibadze">Tedo Zibzibadze</a>, a Georgian rugby union player.
 
-When it exists, the main features of it will be:
+Once it is completed, the main features of it will be:
 
 ### FOSS:
 All code of this project is hosted on GitHub. The app is completely free as in freedom, meaning there will not be any charges ever. This is as opposed to most popular to-do list apps, which are mostly subscription based.
@@ -26,10 +26,12 @@ The app works how you want. And if it doesn't, you can spend a few minutes in th
 The app features simple notification reminders for when your task is due. 
 
 #### tbc:
-There are some features whih would be nice to add but would be hard to implement. These include:
+There are some features which would be nice to add but would be hard to implement. These include:
 
 *Sync:* An account system so you can access your notes from any device.
+<br>
 *Other Platforms:* A destop app, or maybe even a web app, to help you be organised whatever you are doing.
+<br>
 *Themeing:* The app will probably come with a light and dark theme. But it would be good to make the appearance fully customisable by the user, to enable community themes.
 
 
