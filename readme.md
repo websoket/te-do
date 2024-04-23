@@ -1,5 +1,5 @@
-[!IMPORTANT]
-development has been moved to <a href="https://github.com/grape20101/Te-Do">github.com/grape20101/Te-Do<a>
+>[!IMPORTANT]
+> development has been moved to <a href="https://github.com/grape20101/Te-Do">github.com/grape20101/Te-Do<a>
 
 
 ```
